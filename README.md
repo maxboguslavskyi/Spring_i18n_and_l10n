@@ -1,6 +1,6 @@
 # Spring i18n and l10n
 Simple Spring MVC Internationalization (i18n) and Localization (l10n)...
-Project Environment:
+#Project Environment:
 Java JDK 1.8
 
 Intellij IDEA 14.1.4
