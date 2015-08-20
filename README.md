@@ -1,4 +1,4 @@
-# Spring_i18n_and_l10n
+# Spring i18n and l10n
 Simple Spring MVC Internationalization (i18n) and Localization (l10n)...
 Project Environment:
 Java JDK 1.8
